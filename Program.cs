@@ -10,6 +10,7 @@ namespace visH
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello")
         }
     }
 }
